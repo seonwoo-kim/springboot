@@ -10,5 +10,3 @@ public class MainController {
 		return "index";
 	}
 }
-
-// test2

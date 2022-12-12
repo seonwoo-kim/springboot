@@ -1,20 +1,5 @@
 /bin/
 
-### Kebi Project ###
-kebi-core/.gitignore
-kebi-web-admin/.gitignore
-kebi-web-mail/.gitignore
-kebi-web-admin/webapp/css/
-kebi-web-admin/webapp/img/
-kebi-web-mail/webapp/css/
-kebi-web-mail/webapp/img/
-kebi-web-archive/webapp/css/
-kebi-web-archive/webapp/img/
-kebi-talk/kebi-talk-admin/webapp/css/
-kebi-talk/kebi-talk-admin/webapp/img/
-kebi-web-admin/webapp/app/talk/
-
-
 # Created by https://www.gitignore.io/api/windows,eclipse,java,maven
 
 ### Windows ###
@@ -118,3 +103,5 @@ dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
 
+
+.MF
