@@ -1,0 +1,12 @@
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/views/
+      suffix: .jsp
+  datasource:
+    username: root
+    url: jdbc:mysql://localhost:13306/ayersrock
+    driverClassName: com.mysql.jdbc.Driver
+    password: '1234'
+server:
+  port: '80'
